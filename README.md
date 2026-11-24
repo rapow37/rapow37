@@ -31,8 +31,8 @@
 
 | Proyek | Deskripsi | Teknologi |
 |---|---|---|
-| [Pace Inggris](https://github.com/rapow/Pace-Inggris) | Aplikasi belajar bahasa berbasis web | Next.js, PostgreSQL |
-| [Energia](https://github.com/rapow/Energia) | Portal Siswa | Python, TensorFlow |
+| [Pace Inggris](https://github.com/rapow37/Pace-Inggris) | Aplikasi belajar bahasa berbasis web | Next.js, PostgreSQL |
+| [Energia](https://github.com/rapow37/Energia) | Portal Siswa | Python, TensorFlow |
 
 ## 📫 Hubungi Saya
 
